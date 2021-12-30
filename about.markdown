@@ -19,15 +19,19 @@ You can find the source code for Jekyll at GitHub:
 
 Hi there! My name is Taylor Henderson and this website will keep all sorts of posts about me.
 
-Professional
-
+<b>Professional</b>
 
 Current Role:
 Lead CPQ Consultant with Canidium
+Each day I learn about the needs of clients and figure out how these can be met by leveraging business software. Specifically, I work with teams to design and implement a system that automates the quoting process through configuration and pricing rules and automatic document generation. This work typically involves close attention to integration with other software such as CRM and ERP systems.
+
+Previous Roles:
 
 
-Academic
-Currently pursuing a Master's in Information Science and Technology with a focus in Data Science. 
+<b>Academics</b>
+
+<u>Graduate Studies<u><br/>
+I am currently pursuing a Master's degree in Information Science and Technology with a focus in Data Science through the University of Wisconsin-Milwaukee. This program has been incredibly interesting and valuable in gaining a background in computer science. I have always had an interest in programming but until enrolling in this program I had little formal education in the field.
 
 Classes include:
 <ul>Web Mining and Analytics</ul>
@@ -42,6 +46,9 @@ Classes include:
 <ul>Survey of Information Security</ul>
 <ul>Metadata</ul>
 <ul>Project Design / Implementation / Evaluation</ul>
+
+<u>Undergraduate Studies</u>
+Bachelor's Degree in Chemical Engineering with a Mathematics Minor from Clarkson University completed in May 2014.
 
 
 <b>Previous Roles</b>
