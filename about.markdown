@@ -27,11 +27,24 @@ Lead CPQ Consultant with Canidium
 
 
 Academic
-Currently pursuing a Master's in Information Science and Technology with a focus in Data Science. Completed classes include:
-<ul>Intro to Data Analytics</ul>
+Currently pursuing a Master's in Information Science and Technology with a focus in Data Science. 
+
+Classes include:
+<ul>Web Mining and Analytics</ul>
+<ul>Business Intelligence Technologies and Solutions</ul>
+<ul>Mathematical and Computing Fundamentals</ul>
+<ul>Software Development in Python</ul>
+<ul>Software Engineering Principles</ul>
+<ul>Problem Solving with Object-Oriented Programming</ul>
+<ul>Data Structures and Algorithms</ul>
+<ul>Geographic Information Science</ul>
+<ul>Introduction to Data Science</ul>
+<ul>Survey of Information Security</ul>
+<ul>Metadata</ul>
+<ul>Project Design / Implementation / Evaluation</ul>
 
 
-Previous Roles
+<b>Previous Roles</b>
 
 
 
