@@ -1,3 +1,7 @@
+layout: page
+title: "pages_blog"
+permalink: /posts/blog/
+
 About this site
 
 This is a static GitHub Pages Site using Jekyll
