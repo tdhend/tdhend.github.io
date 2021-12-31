@@ -8,8 +8,7 @@ Hi there! My name is Taylor Henderson and this website will keep all sorts of po
 
 <b>Professional</b>
 
-Current Role:<br/>
-Lead CPQ Consultant with Canidium<br/>
+<u>Current Role: Lead CPQ Consultant with Canidium</u><br/>
 Each day I learn about the needs of clients and figure out how these can be met by leveraging business software. Specifically, I work with teams to design and implement a system that automates the quoting process through configuration and pricing rules and automatic document generation. This work typically involves close attention to integration with other software such as CRM and ERP systems.
 
 Previous Roles:
@@ -34,11 +33,8 @@ Classes include:
 <ul>Metadata</ul>
 <ul>Project Design / Implementation / Evaluation</ul>
 
-<u>Undergraduate Studies</u>
+<u>Undergraduate Studies</u><br/>
 Bachelor's Degree in Chemical Engineering with a Mathematics Minor from Clarkson University completed in May 2014.
-
-
-<b>Previous Roles</b>
 
 
 
@@ -47,6 +43,8 @@ Currently working on minor home repairs and improvements
 
 Fun Stuff<br/>
 I am an avid climber living around Boulder, CO. I have about 6 years of experience climbing a variety of rock types and styles. I am mostly interested in climbs that offer exposure
+
+ <img src="images/20210404_132031.jpg" alt="The Gobbler - 2021"> 
 
 2022 Climbing Goals (Yes, these are a bit obvious)
 <ul>Naked Edge</ul>
