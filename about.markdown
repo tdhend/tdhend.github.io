@@ -44,7 +44,7 @@ Currently working on minor home repairs and improvements
 Fun Stuff<br/>
 I am an avid climber living around Boulder, CO. I have about 6 years of experience climbing a variety of rock types and styles. I am mostly interested in climbs that offer exposure
 
- <img src="20210404_132031.jpg" alt="The Gobbler - 2021"> 
+ <img src="/assets/20210404_132031.jpg" alt="The Gobbler - 2021"> 
 
 2022 Climbing Goals (Yes, these are a bit obvious)
 <ul>Naked Edge</ul>
