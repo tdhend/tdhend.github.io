@@ -14,6 +14,13 @@ Each day I learn about the needs of clients and figure out how these can be met 
 Previous Roles:
 
 
+<b>Technical Skills</b><br/>
+<ul>Languages: Java, Python, Ruby, HTML</ul>
+<ul>Software: SAP CPQ, Salesforce CRM, MS Office</ul>
+<ul>Knowledge Areas: Data Analytics, Business/IT Consulting, CPQ Design, UI/UX</ul>
+
+
+
 <b>Academics</b>
 
 <u>Graduate Studies</u><br/>
@@ -36,6 +43,8 @@ Classes include:
 <u>Undergraduate Studies</u><br/>
 Bachelor's Degree in Chemical Engineering with a Mathematics Minor from Clarkson University completed in May 2014.
 
+<b>Projects</b><br/>
+Auto Maintenance Log
 
 
 Other Important Stuff<br/>
@@ -46,6 +55,9 @@ I am an avid climber living around Boulder, CO. I have about 6 years of experien
 
  <img src="/assets/20210404_132031.jpg" alt="The Gobbler - 2021"> 
 
-2022 Climbing Goals (Yes, these are a bit obvious)
+2022 Climbing Goals (Yes, some these are a bit obvious)
 <ul>Naked Edge</ul>
 <ul>Casual Route or Pervertical Sanctuary</ul>
+<ul>Yosemite Wall</ul>
+<ul>Cynical Pinnacle</ul>
+<ul>Cary Granite</ul>
