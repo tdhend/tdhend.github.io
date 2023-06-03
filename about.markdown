@@ -9,6 +9,27 @@ Hi there! My name is Taylor Henderson and this website will keep all sorts of po
 <b>Professional Resume</b>
 
 <u>Current Role: 
+<b>Solution Architect - Configure, Price, Quote Software</b>
+Quick2Bid, Milwaukee, Boulder<br/>
+<br/>
+<ul>Lead end-to-end product lifecycle management for CPQ software systems, a SaaSbased sales tool</ul>
+<ul>Defined CPQ software product vision, strategy, and roadmap, aligning it with company
+goals and customer requirements</ul>
+<ul>Author and implement functional designs of CPQ software systems, utilizing Pascal, JS,
+SQL</ul>
+<ul>Oversaw the development process, prioritized features, and managed the product
+backlog using Agile methodologies</ul>
+<ul>Integration of CPQ software with currentsystems (CRM, ERP, eCommerce, CAD) and
+ensure scalable implementation</ul>
+<ul>Delegation of work to CPQ Consultants, including project management, issue tracking
+and risk registers</ul>
+<ul>Conducted regular customer feedback sessions, analyzed data, and iterated on the
+product to improve user experience and drive customer satisfaction</ul>
+<ul>Monitored product performance, tracked key metrics, and implemented data-driven
+strategies for continuous improvement</ul>
+<ul>Managed product launches, and provided training and support to the sales team</ul>
+<ul>Worked closely with stakeholders to gather feedback, address concerns, and ensure
+effective communication throughout the product lifecycle</ul>
 
 <u>Previous Roles:</u>
 
@@ -45,15 +66,17 @@ Classes included:
 Bachelor's Degree in Chemical Engineering with a Mathematics Minor from Clarkson University completed in May 2014.
 
 <b>Projects</b><br/>
-Auto Maintenance Log
-TidyTwin
+<ul>Auto Maintenance Log</ul>
+<ul>TidyTwin<</ul>
 
 
 
 Other Important Stuff<br/>
-Currently working on minor home repairs and improvements
+My wife Anne and I recently welcomed a new son into our lives. Charles James Henderson was born on May 22nd, 2023. This experience has been such a joy and we can't wait to get to know him!<br/>
+<br/>
 
-Fun Stuff<br/>
+
+Other Fun Stuff<br/>
 I am an avid climber living around Boulder, CO. I have about 10 years of experience climbing a variety of rock types and styles. I'm excited by climbs with stark exposure.
 
 <img src="/assets/20210404_132031.jpg" alt="The Gobbler - 2021"> 
