@@ -6,13 +6,14 @@ permalink: /about/
 
 Hi there! My name is Taylor Henderson and this website will keep all sorts of posts about me.
 
-<b>Professional</b>
+<b>Professional Resume</b>
 
-<u>Current Role: Lead CPQ Consultant with Canidium</u><br/>
-Each day I learn about the needs of clients and figure out how these can be met by leveraging business software. Specifically, I work with teams to design and implement a system that automates the quoting process through configuration and pricing rules and automatic document generation. This work typically involves close attention to integration with other software such as CRM and ERP systems.
+<u>Current Role: 
 
-Previous Roles:
+<u>Previous Roles:</u>
 
+<u>Lead CPQ Consultant - Canidium</u><br/>
+This role involved learning about the needs of clients and figuring out how these can be met by leveraging business software. Specifically, I work with teams to design and implement a system that automates the quoting process through configuration and pricing rules and automatic document generation. This work typically involves close attention to integration with other software such as CRM and ERP systems.
 
 <b>Technical Skills</b><br/>
 <ul>Languages: Java, Python, Ruby, HTML</ul>
@@ -24,9 +25,9 @@ Previous Roles:
 <b>Academics</b>
 
 <u>Graduate Studies</u><br/>
-I am currently pursuing a Master's degree in Information Science and Technology with a focus in Data Science through the University of Wisconsin-Milwaukee. This program has been incredibly interesting and valuable in gaining a background in computer science. I have always had an interest in programming but until enrolling in this program I had little formal education in the field.
+I have recently completed a Master's degree in Information Science and Technology with a focus in Data Science through the University of Wisconsin-Milwaukee. This program has been incredibly interesting and valuable in gaining a background in computer science. I have always had an interest in programming but until enrolling in this program I had little formal education in the field.
 
-Classes include:
+Classes included:
 <ul>Web Mining and Analytics</ul>
 <ul>Business Intelligence Technologies and Solutions</ul>
 <ul>Mathematical and Computing Fundamentals</ul>
@@ -40,22 +41,31 @@ Classes include:
 <ul>Metadata</ul>
 <ul>Project Design / Implementation / Evaluation</ul>
 
-<u>Undergraduate Studies</u><br/>
+<u>Undergraduate</u><br/>
 Bachelor's Degree in Chemical Engineering with a Mathematics Minor from Clarkson University completed in May 2014.
 
 <b>Projects</b><br/>
 Auto Maintenance Log
+TidyTwin
+
 
 
 Other Important Stuff<br/>
 Currently working on minor home repairs and improvements
 
 Fun Stuff<br/>
-I am an avid climber living around Boulder, CO. I have about 6 years of experience climbing a variety of rock types and styles. I am mostly interested in climbs that offer exposure
+I am an avid climber living around Boulder, CO. I have about 10 years of experience climbing a variety of rock types and styles. I'm excited by climbs with stark exposure.
 
- <img src="/assets/20210404_132031.jpg" alt="The Gobbler - 2021"> 
+<img src="/assets/20210404_132031.jpg" alt="The Gobbler - 2021"> 
+The Gobbler - 2021
 
-2022 Climbing Goals (Yes, some these are a bit obvious)
+<img src="/assets/IMG_0192.JPG" alt="Triassic Sands - 2023">
+Triassic Sands - 2023
+
+<img src="/assets/IMG_6710.jpg" alt="Lincoln Falls Ice Climbing - 2022">
+Lincoln Falls Ice Climbing - 2022
+
+2023 Climbing Goals
 <ul>Naked Edge</ul>
 <ul>Casual Route or Pervertical Sanctuary</ul>
 <ul>Yosemite Wall</ul>
